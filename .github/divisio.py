@@ -1,0 +1,6 @@
+print('aquest programa realitza una divisió')
+a=float(input('divisor'))
+b=float(input('dividend'))
+print('divisio:',b,'/',a)
+print('quocient:',b//a)
+print('residu:',b%a)
