@@ -1,4 +1,4 @@
-print('aquest programa realitza una divisió')
+print('aquest programa realitza una divisio')
 a=float(input('divisor'))
 b=float(input('dividend'))
 D=b//a
